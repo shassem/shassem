@@ -9,7 +9,7 @@
 
 <!--  -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shassem&show_icons=true&bg_color=00000000)
 
 ## 🛠 Skills
 <h3 align="left">Languages and Tools:</h3>
